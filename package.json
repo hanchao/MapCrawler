@@ -1,0 +1,18 @@
+{
+    "name": "MapCrawler",
+	"version": "0.0.1",
+	"description": "A grab map data tools",
+    "main": "mapcrawler.js",
+    "author": {
+        "name": "hanchao",
+        "email": "hanchao0123@hotmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hanchao/MapCrawler.git"
+    },
+    "dependencies": {
+		"request": "~2.44.0",
+        "sqlite3": "~2.2.0"
+    }
+}
